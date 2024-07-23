@@ -1,4 +1,4 @@
-https://qiita.com/ozaki_physics/items/17b8c8ea1f80c74d2192 を改変しました
+https://qiita.com/ozaki_physics/items/17b8c8ea1f80c74d2192 を改変しました  
 サイン波を合成して音を作り、パソコンのキーボードで演奏できます
 
 課題点
